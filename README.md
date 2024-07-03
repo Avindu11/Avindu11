@@ -11,10 +11,13 @@ I'm a software developer specializing in frontend development.
 - CSS
 - SASS
 - Bootstrap
-- ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) JavaScript
+- ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
 - PHP
 - Java
 - MySQL
+
+## --------
+![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=yourusername.yourusername)
 
 ## Contact
 - [Email](mailto:avindu2019@gmail.com)
