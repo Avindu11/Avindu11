@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![Coding GIF](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
+
 ## About Me
 I'm a software developer specializing in frontend development.
 
