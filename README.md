@@ -1,16 +1,21 @@
 ## Hi there 👋
 
-<!--
-**Avindu11/Avindu11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I'm a software developer specializing in frontend development.
 
-Here are some ideas to get you started:
+## Projects
+- [Project 1](https://glamours.avinduvidusanka.dev/): A Fullstack E-commerce Application.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- HTML
+- CSS
+- SASS
+- Bootstrap
+- Javascript
+- PHP
+- Java
+- MySQL
+
+## Contact
+- [Email](mailto:avindu2019@gmail.com)
+- [LinkedIn](www.linkedin.com/in/avindu-vidusanka-b5989522a)
