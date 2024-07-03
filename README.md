@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-![Coding GIF](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
-
 ## About Me
 I'm a software developer specializing in frontend development.
 
@@ -13,7 +11,7 @@ I'm a software developer specializing in frontend development.
 - CSS
 - SASS
 - Bootstrap
-- Javascript
+- ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) JavaScript
 - PHP
 - Java
 - MySQL
