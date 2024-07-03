@@ -11,3 +11,6 @@ Passionate in Frontend Development
 ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
 ![PHP](https://img.icons8.com/officel/40/000000/php-logo.png)
 ![MySQL](https://img.icons8.com/color/48/000000/mysql-logo.png)
+![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png)
+
+
