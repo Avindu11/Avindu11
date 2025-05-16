@@ -29,17 +29,17 @@
 
 ## 🧠 Currently Working On
 
-### 🎬 [MovieVerse]
+### 🎬 MovieVerse
 An advanced university-level **Movie Ticket Booking System**  
 Roles: User, Cashier, Admin, Scheduler, Branch Manager  
 Features: Multi-branch, QR ticketing, snack ordering, real-time status  
 Tech: React + JSP/Servlets + MySQL
 
-### 🧾 [FormForge]
+### 🧾 FormForge
 Smart Form Builder with drag & drop UI, live preview, and PDF export  
 Tech: React + Node.js + MySQL
 
-### 🎟 [Eventify Pro]
+### 🎟 Eventify Pro
 Event ticketing system with email delivery, QR codes, CSV participant upload  
 Tech: MERN (MySQL instead of MongoDB)
 
@@ -49,15 +49,6 @@ Tech: MERN (MySQL instead of MongoDB)
 - ✍️ Blogging, content creation & dev video tutorials (Coming soon on [YouTube](https://www.youtube.com/@avinduvidusanka))
 - 🧑‍💻 Building a freelance brand to earn a 10M LKR dream car 🚗
 - 📦 Experimenting with Docker & Production-ready deployments
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=drexterdev&show_icons=true&theme=radical" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=drexterdev&theme=radical" width="49%" />
-</p>
 
 ---
 
