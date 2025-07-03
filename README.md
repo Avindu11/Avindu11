@@ -3,7 +3,9 @@
 🚀 A passionate **Fullstack Developer** from Sri Lanka  
 💻 Currently crafting production-grade apps using **React**, **Node.js**, **JSP/Servlets**, and **MySQL**  
 🎯 Focused on building high-performance, real-world applications that actually **solve problems**  
-🎓 Software Engineering undergrad | 🔧 Intern | 🧠 Constant Learner
+🎓 Software Engineering undergrad
+🔧 Intern
+🧠 Constant Learner
 
 ---
 
@@ -35,13 +37,9 @@ Roles: User, Cashier, Admin, Scheduler, Branch Manager
 Features: Multi-branch, QR ticketing, snack ordering, real-time status  
 Tech: React + JSP/Servlets + MySQL
 
-### 🧾 FormForge
-Smart Form Builder with drag & drop UI, live preview, and PDF export  
-Tech: React + Node.js + MySQL
+### 🧾 Event Ninja
+A hybrid event hosting platform that allows organizers to create, manage, and monitor events that include both physical and virtual components. This document outlines the requirements for building a robust, scalable MERN + MySQL-based platform for event management, ticketing, analytics, and user engagement.
 
-### 🎟 Eventify Pro
-Event ticketing system with email delivery, QR codes, CSV participant upload  
-Tech: MERN (MySQL instead of MongoDB)
 
 ---
 
