@@ -45,13 +45,6 @@ Tech: MERN (MySQL instead of MongoDB)
 
 ---
 
-## 🧩 Side Quests
-- ✍️ Blogging, content creation & dev video tutorials (Coming soon on [YouTube](https://www.youtube.com/@avinduvidusanka))
-- 🧑‍💻 Building a freelance brand to earn a 10M LKR dream car 🚗
-- 📦 Experimenting with Docker & Production-ready deployments
-
----
-
 ## 📬 Connect With Me
 
 - 💼 [LinkedIn](www.linkedin.com/in/avindu-vidusanka-b5989522a)
