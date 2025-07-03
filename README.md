@@ -37,7 +37,7 @@ Roles: User, Cashier, Admin, Scheduler, Branch Manager
 Features: Multi-branch, QR ticketing, snack ordering, real-time status  
 Tech: React + JSP/Servlets + MySQL
 
-### 🧾 Event Ninja
+### 🌲 Event Ninja
 A hybrid event hosting platform that allows organizers to create, manage, and monitor events that include both physical and virtual components. This document outlines the requirements for building a robust, scalable MERN + MySQL-based platform for event management, ticketing, analytics, and user engagement.
 
 
